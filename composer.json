@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Whois\\": "src/"
+      "Zf3Whois\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "WhoisTest\\": "test/"
+      "Zf3WhoisTest\\": "test/"
     }
   }
 }

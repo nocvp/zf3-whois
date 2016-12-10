@@ -19,7 +19,7 @@ Examples
 Default use of Zf3 Whois
 ------------
 ```php
-$whoisService = $container->get('ZfBase58');
+$whoisService = $container->get('Zf3Whois');
 $whois = $whoisService->query('example.org');
 
 echo $whois->info();
